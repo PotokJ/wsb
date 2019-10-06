@@ -14,21 +14,28 @@ namespace dom_1
             //Zadanie 1
 
             Console.WriteLine("Program liczy wyrażenie (a^2+b)/(a+b)^2");
-            Console.Write("Podaj liczbę a: ");
-            float bokA = float.Parse(Console.ReadLine());
 
-            Console.Write("Podal liczbę b: ");
-            float bokB = float.Parse(Console.ReadLine());
+            int q = 0;
 
-            float result = (bokA * bokA + bokB) / ((bokA + bokB) * (bokA + bokB));
+            do
+            {
 
-            //float zero = (bokA + bokB) * (bokA + bokB);
-            //if (zero == 0)
-            if ((bokA + bokB) * (bokA + bokB) == 0)
-                Console.WriteLine("Próba dzielenia przez 0");
-            else
-                Console.WriteLine("Wynik wyrażenia to: " + result);
+                Console.Write("Podaj pierwszą liczbę a: ");
+                float a = float.Parse(Console.ReadLine());
 
+                Console.Write("Podaj drugą liczbę b: ");
+                float b = float.Parse(Console.ReadLine());
+
+                float result = (a * a + b) / ((a + b) * (a + b));
+
+                if ((a + b) * (a + b) == 0)
+                    Console.WriteLine("Próba dzielenia przez 0");
+
+                else
+                    Console.WriteLine("Wynik wyrażenia to: " + result);
+                Console.WriteLine("");
+
+            } while (q < 1);
 
             Console.ReadKey();
 
