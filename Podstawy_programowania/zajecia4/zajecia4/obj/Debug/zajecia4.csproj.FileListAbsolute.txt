@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\zajecia4\zajecia4\bin\Debug\zajecia4.exe.config
+C:\Users\Student\source\repos\zajecia4\zajecia4\bin\Debug\zajecia4.exe
+C:\Users\Student\source\repos\zajecia4\zajecia4\bin\Debug\zajecia4.pdb
+C:\Users\Student\source\repos\zajecia4\zajecia4\obj\Debug\zajecia4.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\zajecia4\zajecia4\obj\Debug\zajecia4.exe
+C:\Users\Student\source\repos\zajecia4\zajecia4\obj\Debug\zajecia4.pdb
