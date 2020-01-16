@@ -1,0 +1,19 @@
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.exe.config
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.exe
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.pdb
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.csprojAssemblyReference.cache
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.Form1.resources
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.Properties.Resources.resources
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.csproj.GenerateResource.cache
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.exe
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.pdb
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.exe.config
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.exe
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\kolko_krzyzyk.pdb
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.Form1.resources
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.exe
+C:\Users\lenovo\Desktop\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.pdb
+D:\Dom Visual\Dom\testowanko\WindowsForms\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\kolko_krzyzyk.Options.resources
